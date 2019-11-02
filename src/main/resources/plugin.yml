@@ -1,0 +1,6 @@
+name: HeadDrop
+version: ${project.version}
+main: de.mcmdev.headdrop.HeadDropsPlugin
+api-version: 1.13
+authors: [MCMDEV]
+description: An advanced minecraft head drops plugin
